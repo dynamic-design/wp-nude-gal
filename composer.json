@@ -1,0 +1,11 @@
+{
+    "name": "dynamiccommunication/nude-gal",
+    "type": "wordpress-plugin",
+    "description": "Stripping wordpress post gallery of all styles",
+    "authors": [
+        {"name": "Patrik Göthe", "email": "patrik.got@gmail.com"}
+    ],
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
